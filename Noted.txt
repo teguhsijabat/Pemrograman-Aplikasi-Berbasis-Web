@@ -1,0 +1,3 @@
+menghubungkan local ke github, local repo
+menyimoan file ke github
+cara buat token
